@@ -397,3 +397,4 @@ void saveData() {
     printf(">> Success: %d quotes saved to file '%s'.\n", quote_count, FILENAME);
 }
 
+//추가되었는지 확인하기
